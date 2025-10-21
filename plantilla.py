@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
+hola esto está modificado
 generador_soporte_TODO.py
 ================================
 Proyecto docente para aprender FUNCIONES en Python generando un SVG
